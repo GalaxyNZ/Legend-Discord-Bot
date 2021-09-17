@@ -11,9 +11,9 @@ var chn = "";
 
 var hosts = ['gateway.discord.gg'];
 
-//var Legend = "MzE5NTc4ODA1MTA4NzM2MDAy.DBC_cw.5qBs89EMLWae8rHIq2m8Yi8ppIs";
+//var Legend = "";
 
-var Legend = "MjY0ODk5NTEyMDUxNTY0NTQ0.WGhA5Q.8QKi6z85-CzW7nGKDpv5uF7_l6w";
+var Legend = "";
 
 var slowedChannels = [];
 

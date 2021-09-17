@@ -1,0 +1,80 @@
+{
+    "bot": {
+        "prefix": "~",
+        "roles": [
+            "user",
+            "block",
+            "mod",
+            "admin"
+        ]
+    },
+    "response": {
+        "Hello": "Hola",
+        "test": "It works!!!!",
+        "meow": "🐱",
+        "skip": "Might wanna try using a ! next time",
+        "play": "Might wanna try using a ! next time",
+        "queue": "Might wanna try using a ! next time",
+        "np": "Might wanna try using a ! next time"
+    },
+    "links": {
+        "site": "https://falcons.neocities.org",
+        "wiki": "http://en.tankiwiki.com/Main_Page",
+        "clan": "http://en.tankiforum.com/index.php?showtopic=271565&page=1",
+        "forum": "http://en.tankiforum.com/",
+        "app": "https://docs.google.com/forms/d/104R-Qu3Q4FsMEwYO2czZ5BQpiqsfjsP11e5VokOt_U4/edit",
+        "nickname": "http://tankionline.com/forms/change/en/",
+        "promo": "https://www.youtube.com/watch?v=zjCuHpLbyRw",
+        "parkour": "http://en.tankiforum.com/index.php?showtopic=303526",
+        "gist": "https://gist.github.com"
+    },
+    "war": {
+        "name": "meow",
+        "year": "2017 ",
+        "month": 2,
+        "day": "02",
+        "hour": "09",
+        "minute": "22"
+    },
+    "banned": {
+        "fuck": "fuck",
+        "shit": "shit",
+        "cunt": "cunt",
+        "bitch": "bitch",
+        "fucking": "fucking",
+        "nigga": "nigga",
+        "nigger": "nigger",
+        "fock": "fock",
+        "fucked": "fucked",
+        "fvck": "fvck",
+        "fck": "fck"
+    },
+    "chat": {
+        "Wew": "Wew Indeed!",
+        "Hey": "Hey there!",
+        "Hola": "Hola Amigo! ¿Cómo Estás?",
+        "gg": "GG"
+    },
+    "ideas": {
+        "0": "0000000000 *by* <@225081792292454403>",
+        "1": "1111111111 *by* <@225081792292454403>",
+        "2": "3333333333 *by* <@225081792292454403>",
+        "3": "4444444444 *by* <@225081792292454403>"
+    },
+    "members": [
+        {
+            "name": "Galaxy",
+            "ID": "225081792292454403",
+            "nickname": "GaIaxy",
+            "role": "owner",
+            "description": "Wiki Admin, TFP Commentator, Falcons Leader, Forum spammer. You should know who he is by now... "
+        },
+        {
+            "name": "Kyle",
+            "ID": "248550105605603328",
+            "nickname": "Kyle224",
+            "role": "admin",
+            "description": "undefineddescription meow "
+        }
+    ]
+}

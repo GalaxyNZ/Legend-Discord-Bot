@@ -1,0 +1,25 @@
+On joining server/guild
+    - Push information
+        - Server owner
+        - Server title
+        - Infinite invite link
+        - 
+    - Send a PM to owner saying thanks
+
+On member joining
+    - Send message to the default channel welcoming the user.
+    - Send a PM
+    - Set their role to neutral
+
+Functions
+    - PM user
+    - Kick user
+    - Warn user
+        - display warnings for a user
+        - on 3 warnings, let the owner know. 
+    - Silencer
+    - Update guild info. 
+
+Fun
+    - pick random
+    - guild custom responses.

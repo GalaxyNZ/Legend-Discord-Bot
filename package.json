@@ -1,0 +1,20 @@
+{
+  "name": "Galaxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "discord.js-commando": "^0.8.3",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.3",
+    "ytdl-core": "^0.14.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

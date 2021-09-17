@@ -1,0 +1,26 @@
+:star: __** Moderator/Admin only commands **__ :star:
+``` Markdown
+~warn <user> <reason>                   - Warns a user. The warned user will recieve a PM
+
+~kick <user> <reason>                   - Kicks a user
+
+~ban                                    - Bans a user from the channel. 
+              1) <user mention>             - the user you want to ban
+              2) <length>                   - how many days you want the user to be banned for. 0 = unlimited. Please note that the bot will only unban if it remains online for the duration of the ban.
+              3) <reason>                   - Reason for banning the user. 
+
+~sudo <add/remove>                      - Add/Removes commands
+              1) <command>                  - link      | Adds a Link + command
+                                            - command   | Adds a command + custom response
+                                            - banned    | Adds the word to the banned list. If the word is used in any message on any server, the message will get deleted
+
+              2) <trigger>              - The word that will trigger the responce (Must be one word)
+
+              3) <response>             - The responce given when triggered
+                                            
+~echo <message>                         - The bot will copy what you say and delete your message.
+
+~purge <number> <user>                  - Deletes the chosen number of messages from the chat. Member is optional and if entered, only deletes messages from that user
+
+~slowmode <time>                        - Puts a limit on how often players can message in the chosen channel. 
+```

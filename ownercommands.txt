@@ -1,0 +1,9 @@
+```
+~echo <message>
+
+~invite <server>
+            - falcons   | Falcons server
+            - applicant | Falcons Applicant server
+            - bte       | BTE server
+
+```

@@ -1,0 +1,35 @@
+:star: __** Legend's Commands **__ :star:
+
+**HELP**
+```Markdown
+~link               - Gives you a list of all the links you can request.
+
+~help               - Shows you all the commands that you can run (this)
+
+~join <role>        - Gives you the Antaeus, Frontier or Neutral role
+
+~ping               - Test the connection speed of the bot
+
+~whosplaying <game> - See if anyone in the server is playing your chosen game and get a list given to you. 
+```
+
+**FUN COMMANDS**
+```Markdown
+~choose |<options>  - Chooses a random option of the ones listed. Seperate values using the | symbol.
+
+~8ball              - Ask the bot a question and it will predict it or something k
+
+~quiz               - Test your knowledge as I give you some questions that you need to try answer
+```
+
+**MUSIC COMMANDS**
+```Markdown
+~add <youtube link> - Adds a song to the queue
+
+~play               - Joins the server you are in and plays the queue
+
+~queue              - Displays the current songs in the queue               
+```
+
+Bot was programmed by <@225081792292454403> with help from <@244172460910444556>
+If you have any ideas, feedback or bugs then please contact <@225081792292454403>. 
